@@ -1,0 +1,1 @@
+n tem logo é fonte no navegador, eu aumentei a fonte pra 250px e tirei foto do node com a devtools. exportei com a fonte toda preta, tirei o fundo com o gimp (color to alpha) e depois retornei a cor hex do AI

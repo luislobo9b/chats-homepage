@@ -1,0 +1,2 @@
+f87249
+copiei da devtools era hsv mas n era hex
